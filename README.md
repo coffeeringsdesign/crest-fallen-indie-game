@@ -7,25 +7,28 @@
 ## Description
 This project is to build a trendy shoe site & branding. Used to practice with media queries and responsive design.
 
+## Basis
+A small rag-tag group of Unity developers are working on their latest video game about a hiker that gets lost in Oregon on the Pacific Crest Trail, and must use their skills and limited resources to survive. They're anticipating releasing in the next year, so they want to start advertising and drumming up anticipation online. The developers are too busy coding their actual game to worry about a website, so they've hired you.
+
 ## Brand Identity
-A trendy new shoe brand is about to launch. They're attempting to become the next big name in a type of fashion they call streetwear, but need a site to represent their brand and complete online sales. They tried making their own, but didn't get anywhere. So they've hired you!
+* They mention they're really proud of being a small indie game company. They want that to be evident in all their content too.
+* Their game involves a lot of forest and nature scenery. They think it'd be cool if this imagery and color palette was reflected on the site too.
+* But they make a point to emphasize, "the game is a little dark at times..." so they want to avoid nature scenery feeling too quaint or peaceful. "It should be a tiny bit ominous. Maybe foreboding. You know?"
 
-When describing their brand and vision, they use the words "cool" and "like a viral phenomenon" more times than you can count.
-You're not sure if you agree with this desire ethically, but you did hear them say "We want to be one of those brands where people pay $200 for a ball cap just because it has our name on it. Even if it's just a $6 ballcap. You know?"
-They also told you "We want to feel illusive and viral. Like a brand that just popped up out of nowhere, and no one really knows the story. But in an appealing way."
-They let you know doing limited releases of all our stuff. No restocks. No reprints. They want this to be emphasized, so people feel like all their products are one-of-a-kind and hard-to-get.
-Content
-
-## Focus on
-* A Store area to purchase shoes and other accessories.
-* Fully-responsive pages that gracefully adapt to all screen sizes, looking just as slick.
+## Content
+* Prominently-featured countdown timer, ticking down to when game is released.
+* Page or area they can later feature media coverage and reviews as it starts trickling in.
+* Highly-responsive pages that gracefully adapt to phone, tablet, and desktop screen sizes. They know their target demographic often uses a multitude of different devices to browse the web.
+* Area featuring the small team of developers behind the game.
+* Blog area where developers can give updates on development, later discuss new features and patches after the game is released, etc.
+* Lots of images featuring the game's graphics (Feel free to use placeholder images, of course!)
 
 ## Setup/Installation Requirements
 Using Command Line:
-1. ``git clone https://github.com/coffeeringsdesign/pyxl-shoes.git `` to clone the site.
+1. ``git clone https://github.com/coffeeringsdesign/crest-fallen-indie-game.git `` to clone the site.
 2. ``cd ~`` to navigate to base directory
 3. ``cd Desktop `` to navigate to your desktop
-4. ``cd pyxl-shoes`` to enter the site folder
+4. ``cd crest-fallen-indie-game`` to enter the site folder
 5. ``npm init -y`` to initialize node
 6. ``npm install`` to install all webpack dependencies
 7. ``npm run start`` this will webpack and immediate pop open the site on your brower. I recommend Chrome.
@@ -35,8 +38,9 @@ Using Command Line:
 
 Large Screen Screenshots | Mobile Screenshots
 ---------------------- | -----------------------
-![Web Screenshot](1.png) | ![Mobile Screenshot](3.png)
-![Web Screenshot](2.png) | ![Mobile Screenshot](4.png)
+![Web Screenshot](a.png) | ![Mobile Screenshot](f.png)
+![Web Screenshot](b.png) | ![Mobile Screenshot](e.png)
+![Web Screenshot](c.png) | ![Mobile Screenshot](d.png)
 
 ## Support and contact details
 
@@ -44,7 +48,7 @@ Please feel free to get in touch. Reach out to me at kendra@coffeeringsdesign.co
 
 ## Technologies Used
 
-Node, Webpack, Sketch, Bootstrap, Sass, JQuery, & Atom.
+Javascript, Webpack, Sketch, Bootstrap, Sass, JQuery, & Atom.
 
 ### License
 
