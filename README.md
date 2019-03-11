@@ -5,7 +5,7 @@
 #### By _**Kendra Kelly**_
 
 ## Description
-This project is to build a trendy shoe site & branding. Used to practice with media queries and responsive design.
+This project is to build a website for an indie game & branding. Used to practice with media queries and responsive design.
 
 ## Basis
 A small rag-tag group of Unity developers are working on their latest video game about a hiker that gets lost in Oregon on the Pacific Crest Trail, and must use their skills and limited resources to survive. They're anticipating releasing in the next year, so they want to start advertising and drumming up anticipation online. The developers are too busy coding their actual game to worry about a website, so they've hired you.
